@@ -1,6 +1,6 @@
 Name:		texlive-hyphen-belarusian
 Version:	58652
-Release:	2
+Release:	3
 Summary:	Belarusian hyphenation patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/belarusian
