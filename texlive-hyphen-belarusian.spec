@@ -3,7 +3,7 @@ Version:	58652
 Release:	3
 Summary:	Belarusian hyphenation patterns
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/belarusian
+URL:		https://www.ctan.org/tex-archive/language/belarusian
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hyphen-belarusian.r%{version}.tar.xz
 BuildArch:	noarch
